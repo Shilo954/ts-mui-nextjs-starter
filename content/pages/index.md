@@ -33,7 +33,7 @@ sections:
     subtitle: Trucks
     items:
       - type: Card
-        title: First Card Title
+        title: ''
         image:
           type: Image
           url: >-

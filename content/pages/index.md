@@ -33,7 +33,7 @@ sections:
     subtitle: Trucks
     items:
       - type: Card
-        title: ''
+        title: SCANIA P230 18 TONNE 4X2
         image:
           type: Image
           url: >-

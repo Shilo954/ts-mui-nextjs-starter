@@ -1,0 +1,132 @@
+{
+    "model": "Page",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Landing",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Home"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "index",
+                "title": "Home",
+                "sections": [
+                    {
+                        "$$type": "HeroSection",
+                        "title": "Welcome At Magic Miles",
+                        "subtitle": "Where Original Trucks&Vans That Endure All Humps Ahead And Deliver Suitable Results ",
+                        "text": "This is the HeroSection component. You can visually edit this component & add more sections while developing locally. [Learn more.](https://docs.netlify.com/visual-editor/local-development/)\n",
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Start Exploring",
+                                "url": "",
+                                "size": "large",
+                                "variant": "contained",
+                                "color": "primary"
+                            },
+                            {
+                                "$$type": "Button",
+                                "label": "Start Chat",
+                                "url": "",
+                                "size": "large",
+                                "variant": "outlined",
+                                "color": "primary"
+                            }
+                        ],
+                        "image": {
+                            "$$type": "Image",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/k1.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Hero section image"
+                        }
+                    },
+                    {
+                        "$$type": "CardsSection",
+                        "title": "Our Top Categories",
+                        "subtitle": "Trucks",
+                        "items": [
+                            {
+                                "$$type": "Card",
+                                "title": "First Card Title",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n",
+                                "image": {
+                                    "$$type": "Image",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/nextjs.svg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "First item image"
+                                },
+                                "actions": [
+                                    {
+                                        "$$type": "Button",
+                                        "label": "Read the Docs",
+                                        "url": "https://docs.netlify.com/visual-editor/overview/",
+                                        "size": null,
+                                        "variant": null,
+                                        "color": null
+                                    }
+                                ]
+                            },
+                            {
+                                "$$type": "Card",
+                                "title": "Second Card Title",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n",
+                                "image": {
+                                    "$$type": "Image",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/mui-5.svg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Second item image"
+                                },
+                                "actions": [
+                                    {
+                                        "$$type": "Button",
+                                        "label": "Read the Docs",
+                                        "url": "https://docs.netlify.com/visual-editor/overview/",
+                                        "size": null,
+                                        "variant": null,
+                                        "color": null
+                                    }
+                                ]
+                            },
+                            {
+                                "$$type": "Card",
+                                "title": "Third Card Title",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n",
+                                "image": {
+                                    "$$type": "Image",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/ts.svg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Third item image"
+                                },
+                                "actions": [
+                                    {
+                                        "$$type": "Button",
+                                        "label": "Read the Docs",
+                                        "url": "https://docs.netlify.com/visual-editor/overview/",
+                                        "size": null,
+                                        "variant": null,
+                                        "color": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "thumbnail": "images/page-landing-1a29.png"
+        }
+    ]
+}

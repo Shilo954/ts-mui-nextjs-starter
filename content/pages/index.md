@@ -53,7 +53,7 @@ sections:
 
         actions:
           - type: Button
-            label: Read the Docs
+            label: Learn More
             url: ''
       - type: Card
         title: Second Card Title

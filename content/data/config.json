@@ -26,13 +26,6 @@
     },
     "footer": {
         "copyrightText": "Copyright reserved By MMtrucks 2024\n",
-        "navLinks": [
-            {
-                "type": "Link",
-                "label": "Home",
-                "underline": "hover",
-                "url": "/"
-            }
-        ]
+        "navLinks": []
     }
 }

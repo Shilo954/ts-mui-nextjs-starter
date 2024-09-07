@@ -19,7 +19,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
+        label: Start Chat
         url: ''
         size: large
         variant: outlined

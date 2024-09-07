@@ -13,7 +13,7 @@ sections:
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
-        label: Start Building
+        label: Start Exploring
         url: ''
         size: large
         variant: contained

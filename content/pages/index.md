@@ -3,32 +3,34 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    title: Welcome At Magic Miles
+    subtitle: >-
+      Where Original Trucks&Vans That Endure All Humps Ahead And Deliver
+      Suitable Results 
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        label: Start Exploring
+        url: ''
         size: large
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        label: Start Chat
+        url: ''
         size: large
         variant: outlined
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/k1.jpg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
-    subtitle: Section subtitle here
+    title: Our Top Categories
+    subtitle: Trucks
     items:
       - type: Card
         title: First Card Title

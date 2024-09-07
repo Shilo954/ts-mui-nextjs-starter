@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "Magic Miles Trucks",
         "navLinks": [
             {
                 "type": "Link",
@@ -18,14 +18,14 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "label": "Sign Up/ Log in",
+                "url": "",
                 "underline": "hover"
             }
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/).",
+        "copyrightText": "Copyright reserved By MMtrucks 2024\n",
         "navLinks": [
             {
                 "type": "Link",

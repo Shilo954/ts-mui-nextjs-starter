@@ -36,7 +36,9 @@ sections:
         title: First Card Title
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: >-
+            /images/SCANIA P230 18 TONNE 4X2 REMOVALBOX TRUCK - 2008 - 41915 -
+            Walker Movements.png
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

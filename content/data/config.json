@@ -19,7 +19,7 @@
             {
                 "type": "Link",
                 "label": "Sign Up/ Log in",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "url": "",
                 "underline": "hover"
             }
         ]

@@ -29,7 +29,7 @@ sections:
       url: /images/k1.jpg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Our Top Categories
     subtitle: Section subtitle here
     items:
       - type: Card

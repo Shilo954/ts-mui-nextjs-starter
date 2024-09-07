@@ -30,7 +30,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Our Top Categories
-    subtitle: Section subtitle here
+    subtitle: Trucks
     items:
       - type: Card
         title: First Card Title
